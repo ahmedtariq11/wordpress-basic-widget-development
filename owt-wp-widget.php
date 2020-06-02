@@ -46,7 +46,7 @@ class OWT_WP_Widget extends WP_Widget{
 
 		echo $args['after_title'];
 
-		echo $args['before_widget'];
+		//echo $args['before_widget'];
 
 		echo "<h3>Sanjay Kumar</h3>";
 
